@@ -1,0 +1,10 @@
+Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+0,"Use date you 
+tested on
+2/19/2024",Login/UI/Game/Main Page,"Type the bug or user case to note here
+ex bug: clicking exit doesn't exit
+ex user case: timers take too long",What you expect to happen,What actually happened,yes/no,Yes/no,"Your name
+ex: Kevin Chaja"
+1,3/19/2024,Game,"Able to exit the deck building tutorial, got softlocked",Cannot exit the tutorial,Exited the tutorial with the prompts active,yes,yes,Dawson Ford
+2,3/19/2024,Game,"Every time I login, the game thinks I am a new palyer",Prompt stops showing up to play the tuorial,prompt keeps showing up,yes,no,Dawson Ford
+3,3/19/2024,Game,Latncy  jumped from 100 to over 1700 when joining and playing match,The latency stayed the same as shown in the menu of hte game (100),Lantency skyrocketed,yes,no,Dawson Ford

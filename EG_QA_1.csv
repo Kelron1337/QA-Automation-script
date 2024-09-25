@@ -1,0 +1,19 @@
+﻿Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+0,"Use date you 
+tested on
+2/19/2024",Login/UI/Game/Main Page,"Type the bug or user case to note here
+ex bug: clicking exit doesn't exit
+ex user case: timers take too long",What you expect to happen,What actually happened,yes/no,Yes/no,"Your name
+ex: Kevin Chaja"
+1,2/21/24,Main Page,New player tutorial is still offered to me after completion,After completion the prompt should go away,Prompt still shows up,yes,no,Dawson Ford
+2,2/21/24,Edit Profile,"""Player Title"", ""Player Banner"", ""Player Frame"" do not pull up their respective menus",Each of those buttons should pull up their menus,Nothing is happening,yes,no,Dawson Ford
+3,2/21/24,UI/Main Page,Currency is not visible to me ,Currency should be found somewhere on the screen,Nothing is there,yes,no,Dawson Ford
+4,2/21/24,Main Page,Cannot access the deck building tutorial,Should be able to play the deck building tutorial,I stay on the main page,yes,yes,Dawson Ford
+5,2/21/24,Main Page,Completed status even though I cannot access the deck building tutorial,Still need to complete,Complete status,yes,no,Dawson Ford
+6,2/21/24,Main Page,"Setting menu cannot be closed with the ""X"" button",Window closes ,Window remians open,yes,no,Dawson Ford
+7,2/21/24,Main Page,Anime UltraMan prompt keeps showing up when going back to the main page even though I am still logged into the game,Window doesn’t show up all the time,Window shows up every time,yes,no,Dawson Ford
+8,2/21/24,Game,Cards clip through the floor when a card is placed on the field ,They shake but don’t clip through,Cards clip through when shaking,yes,no,Dawson Ford
+9,2/21/24,NFT Shop,"Cannot access""Avatar Cards"" and ""EG Comics"" in the shop",These menus pull up available cards and comics,Cannot get the dropdown to work,yes,no,Dawson Ford
+10,2/21/24,NFT Shop,Cannot change between block chains,Be able to change blockchains,"""An error has occurred while switching chain, please try again.""",yes,no,Dawson Ford
+11,2/22/24,Deck Builder,Some characters show incorrect element type when viewing the card,Element types match ,They do not mtach,yes,no,Dawson Ford
+12,2/22/24,Main Page,I was prompted to redo the tutorial when loggin in on a different computer,Should not have ben prompted ,I was prompted,yes,no,Dawson Ford
